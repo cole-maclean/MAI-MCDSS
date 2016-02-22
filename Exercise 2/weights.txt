@@ -1,0 +1,2 @@
+,location,stars,facilities,restaurant
+weights,0.4,0.1,0.4,0.1
