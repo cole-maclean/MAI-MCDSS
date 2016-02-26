@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xmcda:XMCDA xmlns:xmcda="http://www.decision-deck.org/2012/XMCDA-2.2.0">
+  <criteria>
+    <criterion id="location">
+      <active>true</active>
+    </criterion>
+    <criterion id="stars">
+      <active>true</active>
+    </criterion>
+    <criterion id="facilities">
+      <active>true</active>
+    </criterion>
+    <criterion id="restaurant">
+      <active>true</active>
+    </criterion>
+  </criteria>
+</xmcda:XMCDA>
+  

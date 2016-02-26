@@ -1,0 +1,2 @@
+,location,stars,facilities,restaurant
+weights,1,1,1,1
