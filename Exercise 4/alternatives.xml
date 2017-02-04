@@ -1,0 +1,18 @@
+<xmcda:XMCDA xmlns:xmcda="http://www.decision-deck.org/2009/XMCDA-2.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<projectReference>
+		<comment>"Seven cars" data set. </comment>
+	</projectReference>
+
+	<alternatives>
+		<alternative id="a01" name="a1" />
+		<alternative id="a02" name="a2" />
+		<alternative id="a03" name="a3" />
+		<alternative id="a04" name="a4" />
+		<alternative id="a05" name="a5" />
+		<alternative id="a06" name="a6" />
+		<alternative id="a07" name="a7" />
+	</alternatives>
+
+</xmcda:XMCDA>
+  
